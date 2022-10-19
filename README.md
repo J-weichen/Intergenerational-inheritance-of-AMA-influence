@@ -16,8 +16,13 @@ For more details you can read our paper:First published: 14 September 2022 https
 
 Content
 ==
-/bulkRNA/: analysis of bulk RNA expression data
-/rrbs/: analysis of DNA methylation data
+/bulkRNA/: 
+==
+analysis of bulk RNA expression data
+/rrbs/: 
+==
+analysis of DNA methylation data
+
 /scDNAme/: analysis of single cell DNA methylation data of human early embryo
 /scRNA/: analysis of scRNA expression data of human early embryo
 
