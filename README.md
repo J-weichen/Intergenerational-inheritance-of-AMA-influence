@@ -16,12 +16,17 @@ For more details you can read our paper:First published: 14 September 2022 https
 
 Content
 ==
+/bulkRNA/: analysis of bulk RNA expression data
+/rrbs/: analysis of DNA methylation data
+/scDNAme/: analysis of single cell DNA methylation data of human early embryo
+/scRNA/: analysis of scRNA expression data of human early embryo
+
 Data
 ==
-The sequence data in this research are available at the National Genomics Data Center database (accession number: HRA001886; https://ngdc.cncb.ac.cn/gsa-human/s/b3WY4c81).
+The raw sequencing datasets in the present research are deposited in the National Genomics Data Center database and China National GeneBank DataBase; and can be obtained upon request for researchers who meet the criteria for access to confidential data.
 
 Contact
 ==
-Jie. Qiao(jie.qiao@263.net)
+Jie. Qiao(jie.qiao@263.net);
 Liyin.Yan (yanliyingkind@aliyun.com)
 
